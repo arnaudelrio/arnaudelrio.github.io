@@ -1,5 +1,5 @@
 ## Readme
 
-[MathInRollerCoasters](MathInRollerCoasters.com)
+[MathInRollerCoasters](https://www.mathinrollercoasters.com/)
 
 * Test
