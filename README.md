@@ -7,4 +7,4 @@
 
 ## Testing the PDF place holder
 
-<embed src="https://arnaudelrio.github.io/TdR - Placeholder.pdf" width="100%" height="850px"/>
+<iframe src="https://arnaudelrio.github.io/TdR - Placeholder.pdf" width="100%" height="850px"/>
