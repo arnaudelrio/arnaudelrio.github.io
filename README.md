@@ -10,26 +10,4 @@
 <iframe src="https://arnaudelrio.github.io/TdR - Placeholder.pdf" width="100%" height="850px"/>
 
 ## Embeded video
-
-<div class="embed-container">
-    <iframe width="640" height="390" 
-    src="[https://www.youtube.com/embed/{{ include.id }}](https://youtu.be/kHXj1twS9Lo)" 
-    frameborder="0" allowfullscreen></iframe>
-</div>
-<style>
-.embed-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-}
-.embed-container iframe,
-.embed-container object,
-.embed-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
+<iframe width="640" height="390" src="https://www.youtube.com/embed/watch?v=kHXj1twS9Lo" frameborder="0" allowfullscreen></iframe>
