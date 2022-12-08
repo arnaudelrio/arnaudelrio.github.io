@@ -10,7 +10,7 @@
 <iframe src="https://arnaudelrio.github.io/TdR - Placeholder.pdf" width="100%" height="850px"/>
 
 ## Embeded video
-<iframe width="640" height="390" src="https://www.youtube.com/embed/watch?v=kHXj1twS9Lo" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="390" src="https://youtu.be/kHXj1twS9Lo" frameborder="0" allowfullscreen></iframe>
 
 
  <embed src="https://arnaudelrio.github.io/TdR - Placeholder.pdf" width="600px" height="500px" />
