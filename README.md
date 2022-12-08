@@ -5,9 +5,6 @@
 
 <iframe src="https://free.timeanddate.com/countdown/i8goi0hb/n31/cf11/cm0/cu4/ct0/cs1/cac000/co1/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/tatTime%20left%20to%20publish/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2022-12-20T11:30:00/bo3/pa4" allowtransparency="true" frameborder="0" width="299" height="46"></iframe>
 
-## Document
-
+## Document and Animations
 <iframe src="https://arnaudelrio.github.io/TdR - Placeholder.pdf" width="800px" height="850px"/>
-
-## Animations
 {% include youtube.html id="kHXj1twS9Lo" %}
