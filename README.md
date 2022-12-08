@@ -10,4 +10,4 @@
 <iframe src="https://arnaudelrio.github.io/TdR - Placeholder.pdf" width="800px" height="850px"/>
 
 ## Animations
-<iframe width="640" height="390" src="https://youtu.be/kHXj1twS9Lo" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="kHXj1twS9Lo" %}
