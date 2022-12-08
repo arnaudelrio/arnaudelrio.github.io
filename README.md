@@ -8,3 +8,8 @@
 ## Testing the PDF place holder
 
 <iframe src="https://arnaudelrio.github.io/TdR - Placeholder.pdf" width="100%" height="850px"/>
+
+## Embeded video
+
+<video src="https://youtu.be/kHXj1twS9Lo" controls="controls" style="max-width: 730px;">
+</video>
