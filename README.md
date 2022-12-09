@@ -11,6 +11,3 @@
   
 ## Research Project Document 
 <iframe src="https://arnaudelrio.github.io/TdR - Placeholder.pdf" width="100%" height="850px"/>
-
-[![Animations](https://img.youtube.com/vi/kHXj1twS9Lo/0.jpg)](https://www.youtube.com/watch?v=kHXj1twS9Lo)
-
