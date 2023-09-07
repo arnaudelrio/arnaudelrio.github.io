@@ -5,8 +5,11 @@
 ## Video of the programmed animations
 {% include youtube.html id="kzEBFSnvF_Q" %}
 
+
 ## Research Project Presentation 
 <iframe src="https://arnaudelrio.github.io/Presentació TdR - Arnau del Río.pdf" width="100%" height="350px"/>
 
+
 ## Research Project Document 
 <iframe src="https://arnaudelrio.github.io/TdR - Arnau del Río.pdf" width="100%" height="850px"/>
+
